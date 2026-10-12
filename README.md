@@ -1,4 +1,4 @@
-<img src="assets/banner.webp" alt="Елена Бауман, frontend developer" width="100%">
+<img src="assets/git-banner.webp" alt="Елена Бауман, frontend developer" width="100%">
 
 ### Обо мне
 
