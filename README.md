@@ -117,5 +117,4 @@ Frontend-разработчик c коммерческим опытом в пр�
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBtNTYzMng0MW0wb205Y3A5b2o0c3FvdGZxeGdqb2V5YWV0YWV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOLR1eS5wDUevAewtc/giphy.gif" width="320" alt="coding">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBtNTYzMng0MW0wb205Y3A5b2o0c3FvdGZxeGdqb2V5YWV0YWV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOLR1eS5wDUevAewtc/giphy.gif" width="320" alt="coding">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBtNTYzMng0MW0wb205Y3A5b2o0c3FvdGZxeGdqb2V5YWV0YWV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOLR1eS5wDUevAewtc/giphy.gif" width="320" alt="coding">
 </div>
