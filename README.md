@@ -1,5 +1,7 @@
 <img src="assets/banner.webp" alt="Елена Бауман, frontend developer" width="100%">
 
+***Контакты:*** [lenivtseva.lena@yandex.ru](mailto:lenivtseva.lena@yandex.ru) · [@ElenaBauman2001](https://t.me/ElenaBauman2001) 
+
 ### Обо мне
 
 Frontend-разработчик c коммерческим опытом в продуктовой разработке более двух лет. Специализируюсь на React + TypeScript, сложных формах и таблицах, интеграции с GraphQL / Hasura, управлении состоянием через MobX и Redux.
@@ -109,8 +111,11 @@ Frontend-разработчик c коммерческим опытом в пр�
 - Русский — родной
 - Английский — B2, Upper-intermediate 
 
-<div align="center">
+***Контакты:*** [lenivtseva.lena@yandex.ru](mailto:lenivtseva.lena@yandex.ru) · [@ElenaBauman2001](https://t.me/ElenaBauman2001) 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding">
+<div align="left">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBtNTYzMng0MW0wb205Y3A5b2o0c3FvdGZxeGdqb2V5YWV0YWV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOLR1eS5wDUevAewtc/giphy.gif" width="320" alt="coding">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBtNTYzMng0MW0wb205Y3A5b2o0c3FvdGZxeGdqb2V5YWV0YWV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOLR1eS5wDUevAewtc/giphy.gif" width="320" alt="coding">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBtNTYzMng0MW0wb205Y3A5b2o0c3FvdGZxeGdqb2V5YWV0YWV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOLR1eS5wDUevAewtc/giphy.gif" width="320" alt="coding">
 </div>
