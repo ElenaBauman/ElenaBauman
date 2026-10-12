@@ -1,20 +1,4 @@
-<div align="center">
-
-### Елена Бауман
-
-Frontend-разработчик
-
-Текущее местоположение: Новосибирск </br>
-Офис / удаленно · Готова к переезду в ваш город
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lenivtseva.lena@yandex.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ElenaBauman2001)
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="cat coding">
-
-</div>
-
----
+<img src="assets/banner.png" alt="Елена Бауман, frontend developer" width="100%">
 
 ### Обо мне
 
